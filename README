@@ -8,3 +8,5 @@ bees_data.ods: An excel version of the origional bees dataset.
 beesv3.csv: The cleaned and transformed summary dataset.
 
 cleaningV3.ipynb: The Jupyter Notebook cotaining the Python code used to clean and transform the dataset.
+
+colonyv2.csv: The origional dataset used for this assignment. Values that refer to the United States as a whole have been removed from the dataset to avoid double count of values
