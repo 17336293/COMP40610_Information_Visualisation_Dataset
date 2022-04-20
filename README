@@ -2,9 +2,6 @@ This repo contains the data preprocessing precedures and datasets used for the C
 
 The files contained on this repo are:
 
-
-bees_data.ods: An excel version of the origional bees dataset. 
-
 beesv3.csv: The cleaned and transformed summary dataset.
 
 cleaningV3.ipynb: The Jupyter Notebook cotaining the Python code used to clean and transform the dataset.
